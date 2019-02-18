@@ -1,0 +1,11 @@
+C:\Marcelo\Trabalho\Daniel\DotNetCore\Exemplo1\WebApplication1\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.deps.json
+C:\Marcelo\Trabalho\Daniel\DotNetCore\Exemplo1\WebApplication1\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.runtimeconfig.json
+C:\Marcelo\Trabalho\Daniel\DotNetCore\Exemplo1\WebApplication1\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.runtimeconfig.dev.json
+C:\Marcelo\Trabalho\Daniel\DotNetCore\Exemplo1\WebApplication1\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.dll
+C:\Marcelo\Trabalho\Daniel\DotNetCore\Exemplo1\WebApplication1\WebApplication2\bin\Debug\netcoreapp1.1\WebApplication2.pdb
+C:\Marcelo\Trabalho\Daniel\DotNetCore\Exemplo1\WebApplication1\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Marcelo\Trabalho\Daniel\DotNetCore\Exemplo1\WebApplication1\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Marcelo\Trabalho\Daniel\DotNetCore\Exemplo1\WebApplication1\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Marcelo\Trabalho\Daniel\DotNetCore\Exemplo1\WebApplication1\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.AssemblyInfo.cs
+C:\Marcelo\Trabalho\Daniel\DotNetCore\Exemplo1\WebApplication1\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.dll
+C:\Marcelo\Trabalho\Daniel\DotNetCore\Exemplo1\WebApplication1\WebApplication2\obj\Debug\netcoreapp1.1\WebApplication2.pdb
